@@ -162,8 +162,8 @@ Student activity across Q2 2021 and Q2 2022 was evaluated using joint and condit
 | P(B)                            | 55.81% |
 | P(A) × P(B)                     | 26.92% |
 | P(A ∩ B)                        |  4.04% |
-| P(B | A)                        |  8.38% |
-| P(A | B)                        |  7.24% |
+| P(B \| A)                       | 8.38% |
+| P(A \| B)                       | 7.24% |
 
 Because:
 
