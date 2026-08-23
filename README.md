@@ -20,3 +20,14 @@ The analysis combines SQL, Excel, and Python to prepare the data, compare studen
 - Pandas
 - Matplotlib
 - Scikit-learn
+
+## Project Workflow
+
+1. Prepared subscription data and identified whether students were active during Q2 2021 and Q2 2022.
+2. Calculated total video engagement in minutes for each student and separated paid and free users.
+3. Combined engagement data with certificate information for further analysis.
+4. Examined engagement distributions and removed extreme outliers.
+5. Compared engagement patterns across years and subscription groups using statistical tests.
+6. Evaluated the relationship between engagement and certificates earned.
+7. Analyzed year-to-year engagement dependency using probabilities.
+8. Built a regression model to estimate certificates earned from minutes watched.
